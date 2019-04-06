@@ -1,0 +1,16 @@
+.header{
+  min-height: 400px;
+  background-color: gray;
+  background-image: url("../../images/folk-pattern-black.png");
+  color:white;
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+.header h1{
+  padding-top: 4em;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.header h2{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}

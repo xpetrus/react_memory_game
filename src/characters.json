@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Mob",
+        "image": "mob.png",
+        "clicks":0
+    },
+    {
+        "id": 1,
+        "name": "Reigen",
+        "image": "reigen.png",
+        "clicks": 0
+    },
+    {
+        "id": 2,
+        "name": "Dimple",
+        "image": "dimple.png",
+        "clicks": 0
+    },
+    {
+        "id": 3,
+        "name": "Haruto",
+        "image": "haruto.png",
+        "clicks": 0
+    },
+    {
+        "id": 4,
+        "name": "Hideki",
+        "image": "hideki.png",
+        "clicks": 0
+    },
+    {
+        "id": 5,
+        "name": "Kenji",
+        "image": "kenji.png",
+        "clicks": 0
+    },
+    {
+        "id": 6,
+        "name": "Mameta",
+        "image": "mameta.png",
+        "clicks": 0
+    },
+    {
+        "id": 7,
+        "name": "Musashi",
+        "image": "musashi.png",
+        "clicks": 0
+    },
+    {
+        "id": 8,
+        "name": "Ritsu",
+        "image": "ritsu.png",
+        "clicks": 0
+    },
+    {
+        "id": 9,
+        "name": "Saruta",
+        "image": "saruta.png",
+        "clicks": 0
+    },
+    {
+        "id": 10,
+        "name": "Tenga",
+        "image": "tenga.png",
+        "clicks": 0
+    },
+    {
+        "id": 11,
+        "name": "Tome",
+        "image": "tome.png",
+        "clicks": 0
+    }
+]

@@ -1,0 +1,27 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+.navbar{
+  position: fixed;
+  display: block;
+  width: 100%;
+  min-height: 70px;
+  white-space: nowrap;
+  box-sizing: border-box;
+  background-color:rgb(216, 214, 218);
+  color: rgb(235, 32, 157);
+  z-index: 99;
+  
+}
+.navbar li{
+  display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 33.3%;
+  text-align: center;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+.brand h4{
+  font-weight: bolder;
+  font-family: 'Wallpoet', cursive;
+}
